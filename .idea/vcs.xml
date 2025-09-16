@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Cardapio-Digital" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Cardapio-Digital/FoodExplorer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Cardapio-Digital/FoodExplorer/back-end" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Cardapio-Digital/FoodExplorer/food-explorer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Cardapio-Digital/food-explorer-frontend" vcs="Git" />
+  </component>
+</project>
